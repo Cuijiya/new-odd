@@ -1,0 +1,22 @@
+{
+  "name": "workshop-tdd",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "main.js",
+  "scripts": {
+    "test": "main.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuijiya/workshop-TDD.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "jiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cuijiya/workshop-TDD/issues"
+  },
+  "homepage": "https://github.com/Cuijiya/workshop-TDD#readme"
+}
